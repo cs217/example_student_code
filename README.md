@@ -12,7 +12,9 @@ To install Spatial:
 
 This next step installs Spatial, and can take a while to fully download and compile all resources.
 
-`cd spatial && make publish`
+`cd spatial && make install && make publish`
+
+Finally, you will want to point `NOVA_HOME` to the location where the spatial directory lives. For convenience, you may with to add this export into your shell's startup file (bashrc, zshrc, etc.).
 
 ## Manually Running Spatial Applications
 A variety of applications are already written in Spatial. A tutorial, documentation, and other resources can be found at https://spatial-lang.org/.
