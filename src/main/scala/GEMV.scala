@@ -13,9 +13,11 @@ import spatial.dsl._
     val A_host = loadCSV2D[T]("matrix.csv")
 
     Accel {
+      
+      // TODO: Add in your accelerator code here
 
     }
 
-    // Write output using writeCSV1D to output.csv
+    // TODO: Write output using writeCSV1D to output.csv
   }
 }
