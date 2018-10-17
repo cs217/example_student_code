@@ -5,7 +5,7 @@ In this project, you will be implementing a Matrix-Vector multiply using Spatial
 
 
 ## Constraints
-Your final design should only use fixed point operations, and take fewer than 200 ops, and 64 kibibytes of combined block ram and registers.
+Your final design should only use fixed point operations, and take fewer than 200 ops, and 64 kibibytes of combined SRAM and registers.
 
 ## Deadline
 This project will be due at the same time as your final project. The intent of this project is to familiarize yourself with Spatial as well as area/performance tuning.
