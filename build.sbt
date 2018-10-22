@@ -11,5 +11,5 @@ resolvers += Resolver.sonatypeRepo("releases")
 addCompilerPlugin("org.scalamacros" % "paradise" % paradise_version cross CrossVersion.full)
 
 libraryDependencies ++= Seq(
-  "edu.stanford.ppl" %% "spatial" % "1.0"
+  "edu.stanford.cs.dawn" %% "spatial" % "1.0-SNAPSHOT"
 )
