@@ -32,6 +32,6 @@ import spatial.dsl._
       // Perform Matrix Multiplication here
     }
 
-    writeCSV2D("output.csv", C_DRAM)
+    writeCSV2D(C_DRAM, "output.csv")
   }
 }
