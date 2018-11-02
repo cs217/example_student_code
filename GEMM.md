@@ -5,7 +5,7 @@ In this project, you will be implementing a Matrix-Matrix multiply using Spatial
 
 
 ## Constraints
-Your final design should only use fixed point operations, and take fewer than 512 ops, and 64 kibibytes of combined SRAM and registers.
+Your final design should only use fixed point operations, and take fewer than 1024 ops, and 2 Megabytes (2,097,152 bytes) of combined SRAM and registers.
 Note that you are free to change all of the precisions involved as long as your final program remains within 0.01 (l2-norm, max-norm) of the double-precision result.
 
 As before, the inputs are guaranteed to be taken uniformly at random from `[-1, 1]`.
