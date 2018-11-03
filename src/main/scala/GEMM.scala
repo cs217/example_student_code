@@ -7,9 +7,9 @@ import spatial.dsl._
   // result satisfies the requirements in GEMM.md
   type T = FixPt[TRUE, _10, _22]
 
-  val M = 256
-  val N = 256
-  val K = 256
+  val M = 128
+  val N = 128
+  val K = 128
 
   override def main(args: Array[String]): Unit = {
 
