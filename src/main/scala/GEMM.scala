@@ -8,8 +8,8 @@ import spatial.dsl._
   type T = FixPt[TRUE, _10, _22]
 
   val M = 256
-  val N = 512
-  val K = 512
+  val N = 256
+  val K = 256
 
   override def main(args: Array[String]): Unit = {
 
