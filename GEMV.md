@@ -10,4 +10,4 @@ Your final design should only use fixed point operations, and your result should
 Resource constraints will be released later this week.
 
 ## Deadline
-This project will be due on 11/6. The intent of this project is to familiarize yourself with Spatial as well as area/performance tuning.
+This project will be due on 2/6. The intent of this project is to familiarize yourself with Spatial as well as area/performance tuning.
