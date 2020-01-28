@@ -6,8 +6,7 @@ In this project, you will be implementing a Matrix-Vector multiply using Spatial
 You will need to provide the matrix and vector files yourself. Each element of the inputs are guaranteed to be in the interval `[-1, 1]`.
 
 ## Constraints
-Your final design should only use fixed point operations, and your result should be accurate with an l2-norm of 0.02.
-Resource constraints will be released later this week.
+Your final design should only use fixed point operations, and take fewer than 200 ops, and 64 kibibytes of combined SRAM and registers. Your result should be accurate with an l2-norm of 0.02
 
 ## Deadline
 This project will be due on 2/6. The intent of this project is to familiarize yourself with Spatial as well as area/performance tuning.
