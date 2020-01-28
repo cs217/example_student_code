@@ -5,7 +5,7 @@ In this project, you will be implementing a Matrix-Matrix multiply using Spatial
 
 
 ## Constraints
-Your final design should only use fixed point operations.
+Your final design should only use fixed point operations, and take fewer than 1024 ops, and 128 kibibytes (131,072 bytes) of combined SRAM and registers.
 Note that you are free to change all of the precisions involved as long as your final program remains within 0.02 (l2-norm, max-norm) of the double-precision result.
 Additional resource constraints will be updated this week.
 
