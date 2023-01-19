@@ -10,5 +10,3 @@ Note that you are free to change all of the precisions involved as long as your 
 
 As before, the inputs are guaranteed to be taken uniformly at random from `[-1, 1]`.
 
-## Deadline
-This project will be due on 2/6. The intent of this project is to familiarize yourself with Spatial as well as area/performance tuning.
